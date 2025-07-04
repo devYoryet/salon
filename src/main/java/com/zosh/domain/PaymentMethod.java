@@ -2,5 +2,7 @@ package com.zosh.domain;
 
 public enum PaymentMethod {
     RAZORPAY,
-    STRIPE
+    STRIPE,
+    PAYPAL,
+    CASH_ON_DELIVERY
 }
